@@ -1,0 +1,167 @@
+{
+    "home-header": {
+        "home": "TRANG CHỦ",
+        "about_us": "VỀ CHÚNG TÔI",
+        "contact_us": "LIÊN LẠC VỚI CHÚNG TÔI",
+        "all_category": "Phân loại",
+        "select_category": "Chọn loại hàng",
+        "text_input": "Bạn muốn tìm kiếm gì?",
+        "search": "Tìm kiếm",
+        "support": "Hỗ trợ 24/7"
+    },
+    "home-body": {
+        "top_category": "Phân loại phổ biến ",
+        "feature_products": "Sản phẩm nổi bật",
+        "latest_product": "Sản phẩm mới",
+        "top_rated_product": "Sản phẩm tốt ",
+        "discount_product": "Sản phẩm giảm giá"   
+    },
+    "home-footer": {
+        "address": "Địa chỉ",
+        "phone": "Số điện thoại",
+        "Latest Product": "ALL CATEGORY",
+        "Top Rated Product": "Select Category",
+        "Discount Product": "What do you want to find?",    
+        "search": "Search",
+        "support": "Support 24/7",
+        "copyright": "Bản quyền bởi HaiDoan @ 2024 All Rights Reserved"
+    },
+        "shops-body": {
+        "categories": "Phân loại",
+        "price": "Giá",
+        "rating": "Đánh giá",
+        "products": "Sản phẩm",
+        "sort_by": "Lọc theo",
+         "low_high": "Giá từ thấp đến cao",
+        "high_low": "Giá từ cao đến thấp",
+        "filter_products":"Lọc sản phẩm"
+    },
+    "header-page": {
+        "home": "Trang chủ",
+        "categories": "Phân loại",
+        "category_page": "Trang Phân Loại",
+        "product_details_page": "Trang Chi Tiết Sản Phẩm",
+        "product_details": "Chi tiết sản phẩm",
+        "cart_page":"Trang giỏ hàng",
+        "cart":"Giỏ hàng",
+        "shipping_page":"Trang Vận Chuyển",
+        "shipping":"Vận chuyển"
+    },
+    "details-body": {
+        "product_review":"Đánh giá sản phẩm: ",
+        "reviews": "Đánh giá",
+        "price": "Giá",
+        "add_to_cart": "Thêm vào giỏ hàng",
+        "availability": "Có sẵn",
+        "in_stock": "Còn",
+        "out_of_stock": "Hết hàng",
+        "share_on": "Chia sẻ đến",
+        "buy_now": "Mua ngay",
+        "chat_seller":"Chat với người bán",
+        "description":"Miêu tả",
+        "text_warning":"Nếu bạn muốn đánh giá sản phẩm, vui lòng điền vào form bên dưới :)",
+        "choose_stars":"Chọn sao:",
+        "comment":"Gửi đánh giá",
+        "related_product":"Sản Phẩm Liên Quan",
+        "from":"Từ",
+        "from1":"From"
+    },
+    "cart-body": {
+        "stock_products":"Sản phẩm còn hàng",
+        "out_of_stock": "Sản phẩm hết hàng",
+        "delete": "Xóa",
+        "order_summary": "Tổng sản phẩm đặt hàng",
+        "items": "sản phẩm",
+        "shipping_fee": "Phí vận chuyển",
+        "apply": "Áp dụng",
+        "total": "Tổng",
+        "process_to_checkout": "Thanh toán",
+        "brand": "Thương hiệu"
+    },
+    "shipping-body": {
+        "shipping_information":"Thông tin vận chuyển",
+        "name": "Tên",
+        "address": "Địa chỉ",
+        "phone": "Số điện thoại",
+        "post": "Mã vùng",
+        "province": "Quận/Huyện",
+        "city": "Thành Phố",
+        "area": "Area",
+        "save_change": "Lưu thay đổi",
+        "delete": "Xóa",
+        "order_summary": "Tổng sản phẩm đặt hàng",
+        "brand": "Thương hiệu",
+        "items_total": "Tổng số sản phẩm ",
+        "delivery_fee": "Phí vận chuyển",
+        "total_payment": "Tổng số tiền thanh toán",
+        "total": "Tổng",
+        "delivery_to": "Giao hàng tới ",
+        "change": "Thay đổi",
+        "place_order": "Đặt hàng"
+    },
+
+      "home-login": {
+        "email": "Email",
+        "password": "Mật khẩu",
+        "login": "Đăng nhập",
+        "or": "Hoặc",
+        "login_with_facebook": "Đăng nhập bằng Facebook",    
+        "login_with_google": "Đăng nhập bằng Google",    
+        "register": "Đăng ký",
+        "have_account": "Bạn chưa có tài khoản?"
+    },
+    "home-register": {
+        "name": "Họ tên",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "register": "Đăng ký",
+        "or": "Hoặc",
+        "login_with_facebook": "Đăng nhập bằng Facebook",    
+        "login_with_google": "Đăng nhập bằng Google",    
+        "login": "Đăng nhập",
+        "have_account": "Bạn đã có tài khoản?"
+    },
+      "home-dashboard": {
+        "dashboard": "Trang chính",
+        "orders": "Đơn hàng",
+        "pending_orders": "Đơn hàng đang chờ",
+        "cancelled_orders": "Đơn hàng bị hủy",
+        "recent_orders": "Đơn hàng hiện tại",
+        "order_id": "Mã đơn hàng",    
+        "price": "Giá",    
+        "payment_status": "Trạng thái thanh toán",
+        "order_status": "Trạng thái đơn hàng",
+        "action": "Hành động",
+        "view": "Xem",
+        "pay_now": "Thanh toán ngay",
+        "unpaid": "Chưa trả",
+        "cancelled": "Đã hủy"
+    },
+    "home-dashboard-my-orders": {
+        "my_orders": "Đơn hàng của tôi",
+         "order_id": "Mã đơn hàng",    
+        "price": "Giá",    
+        "payment_status": "Trạng thái thanh toán",
+        "order_status": "Trạng thái đơn hàng",
+        "action": "Hành động",
+        "view": "Xem",
+        "pay_now": "Thanh toán ngay",
+        "unpaid": "Chưa trả",
+        "cancelled": "Đã hủy",
+        "order_status_choice":"-- Trạng thái --",
+        "all":"Tất cả",
+        "placed":"Đã giao",
+        "pending":"Đang chờ",
+        "warehouse":"Trong kho"
+    },
+        "home-dashboard-change-password": {
+        "change_password": "Đổi mật khẩu",
+         "old_password": "Mật khẩu cũ",    
+        "new_password": "Mật khẩu mới",    
+        "confirm_password": "Nhập lại mật khẩu mới",
+        "update_password": "Cập nhật"
+    },
+     "home-dashboard-wishlist": {
+        "wishlist": "Sản phẩm yêu thích"
+    }
+}
